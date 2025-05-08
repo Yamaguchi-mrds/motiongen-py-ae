@@ -1,6 +1,7 @@
-
+# Motion Graphics Production by Structural Definition: Integration of After Effects and Python
+> 🗓️ Created: May 8, 2025  
+> 🖋️ Author: Yosuke Yamaguchi
 # 1. Introduction
-
 ## 🔍 Terminology and Basic Concepts
 
 Below are simplified definitions of key technical terms frequently used in this document. More detailed technical definitions will be supplemented in each chapter where appropriate.
