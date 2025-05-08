@@ -1,4 +1,5 @@
-# 構造定義によるモーショングラフィックス制作：After EffectsとPythonの連携手法
+# 構造定義によるモーショングラフィックス制作
+ ：After EffectsとPythonの連携手法
 # 1. はじめに（Introduction）
 
 ## 🔍 用語と基本概念の整理
